@@ -1,0 +1,110 @@
+body {
+	font-family:  sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+header {
+	background: url('../img/blok1 fon.png') no-repeat center top / cover;
+	height: 550px;
+}
+.container {
+	width: 1140px;
+	margin: 0 auto;
+}
+.logo {
+margin-top: 40px;
+float: left;
+}
+nav {
+float: right; 
+margin-top: 75px;
+}
+.menu{
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+ li {
+	float: left;
+	display: block;
+	margin-right: 41px;
+}
+li a {
+	color:#ffffff;
+	text-decoration: none;
+	text-transform: uppercase;
+    font-size: 14px;
+}
+.titlesfirst {
+    font-size: 35px;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+}
+h1{
+	font-size: 45px;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+}
+.titles{margin-top: 110px;
+    margin-left: 40px;float: left;
+}
+.button{
+   display: inline-block;
+  width: 100px;
+  padding: 8px;
+  color: #48bf72;
+  border: 1px solid #48bf72;
+  border-radius: 5px;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+  font-size: 15px;
+}
+.sectio {
+	height: 950px;
+}
+.section {
+	background: url('../img/blok3fon.png') no-repeat center top / cover;
+	height: 400px;
+}
+.sectionn {
+	height: 480px;
+}
+footer {
+	background: url('../img/blok5 fon.png') no-repeat center top / cover;
+	height: 100px;
+}
+.menutwo {
+	float: right; 
+    margin-top: 75px;
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+.imgone	{
+	margin-top: 95px;
+	float: left;
+    margin-right: 10px;
+}
+.imgtwo{
+	float: right; 
+}
+.imgthree{
+	float: left;
+	margin-right: 10px;
+
+}
+.imgfore {
+     float: right; 
+}
+.dannye{
+	display: flex; 
+align-items: center; 
+justify-content: center;
+padding: 200px;
+  background: #ccc;
+
+}
